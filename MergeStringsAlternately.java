@@ -1,12 +1,9 @@
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
-
-public class Main {
-    public static void main(String[] args) {
-        
-    }
-    // 1768. Merge Strings Alternately
+ // 1768. Merge Strings Alternately
+public class MergeStringsAlternately {
+   
     /*
      * You are given two strings word1 and word2.
      *  Merge the strings by adding letters in alternating order, 
