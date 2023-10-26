@@ -1,7 +1,6 @@
 public class SearchInrotatedSortedArray_33 {
 
     public int search(int[] nums, int target) {
-        int result = nums[0];
         int left = 0;
         int right = nums.length - 1;
         while (left <= right) {
